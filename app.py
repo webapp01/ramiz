@@ -56,8 +56,8 @@ with st.container():
             """
         )
 
-    st.write("[FOLLOW ME ON FACEBOOK](https://www.facebook.com/moeen.u9)")
-    st.write("[FOLLOW ME ON INSTAGRAM](https://www.facebook.com/moeen.u9)")
+    st.write("[FOLLOW ME ON FACEBOOK](https://www.facebook.com/ramiz.uddin2002)")
+    st.write("[FOLLOW ME ON INSTAGRAM](https://www.instagram.com/ramiz.uddin2002)")
 
 # ---- WHAT I DO ----
 with st.container():
