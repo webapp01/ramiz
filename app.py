@@ -22,7 +22,7 @@ def local_css(file_name):
 
 
 # ---- LOAD ASSETS ----
-lottie_coding = load_lottieurl("https://assets6.lottiefiles.com/private_files/lf30_wpj8myqt.json")
+lottie_coding = load_lottieurl("https://assets10.lottiefiles.com/private_files/lf30_qgah66oi.json")
 img_contact_form = Image.open("images/yt_contact_form.png")
 img_lottie_animation = Image.open("images/yt_lottie_animation.png")
 ramiz_profile = Image.open("images/ramiz_profile.png")
