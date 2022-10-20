@@ -40,7 +40,7 @@ with st.container():
         st.title("﷽")
 with st.container():
     st.write("---")
-    st.header("PROFILE")
+    st.header("")
     st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
