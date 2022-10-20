@@ -25,7 +25,7 @@ def local_css(file_name):
 lottie_coding = load_lottieurl("https://assets6.lottiefiles.com/private_files/lf30_wpj8myqt.json")
 img_contact_form = Image.open("images/yt_contact_form.png")
 img_lottie_animation = Image.open("images/yt_lottie_animation.png")
-moeen_img = Image.open("images/moeen_img.png")
+ramiz_profile = Image.open("images/ramiz_profile.png")
 nxt_nxt = Image.open("images/nxt_nxt.png")
 flower_img = Image.open("images/flower_img.png")
 chocolate_img = Image.open("images/chocolate_img.png")
@@ -44,7 +44,7 @@ with st.container():
     st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
-        st.image(moeen_img)
+        st.image(ramiz_profile)
     with text_column:
         st.subheader("MD. Ramiz Uddin")
         st.write(
