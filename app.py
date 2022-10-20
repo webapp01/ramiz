@@ -49,10 +49,10 @@ with st.container():
         st.subheader("MD. Ramiz Uddin")
         st.write(
             """
-            - _I am a student._
-            - _Live in Khulna,Bangladesh._
-            - _Studies at Khulna Polytechnic Institute._
-            - _Hobbies - Coding, Travelling, Video Games, Listening to Music_
+            - _Fashion Model_
+            - _Live in Dhaka,Bangladesh._
+            - _Studies Bsc(Hons.) at Govt. P.C College, Bagherhat._
+            - _Hobbies - Skydiving, Travelling, Plane spotting, Car Raching, Fashion Photography._
             """
         )
 
