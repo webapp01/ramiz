@@ -5,7 +5,7 @@ from PIL import Image
 import datetime
 
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title="Moeen", page_icon=":heart:", layout="wide")
+st.set_page_config(page_title="Ramiz", page_icon=":maple_leaf:", layout="wide")
 
 
 def load_lottieurl(url):
@@ -46,7 +46,7 @@ with st.container():
     with image_column:
         st.image(moeen_img)
     with text_column:
-        st.subheader("MD. Moeen Uddin")
+        st.subheader("MD. Ramiz Uddin")
         st.write(
             """
             - _I am a student._
@@ -144,17 +144,4 @@ with st.container():
             -  _Good Chocolate,Good Mood._
             """
         )
-
-# ---- DATE TIME ----
-with st.container():
-    st.write("---")
-    st.subheader("_JetBrain_")
-today = datetime.date.today()
-tomorrow = today + datetime.timedelta(days=1)
-start_date = st.date_input('Start date', today)
-end_date = st.date_input('End date', tomorrow)
-if start_date < end_date:
-    st.success('Start date: `%s`\n\nEnd date:`%s`' % (start_date, end_date))
-else:
-    st.error('Error: End date must fall after start date.')
-    st.empty()
+        st.empty()
