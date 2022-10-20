@@ -75,7 +75,7 @@ with st.container():
             There are several subsections within these categories that a designer can pursue depending on their skills and interests.
             """
         )
-        st.write("[Learn More](https://safety.google/)")
+        st.write("[Learn More](https://vesperglobalsourcing.com)")
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
 
