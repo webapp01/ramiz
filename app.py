@@ -64,17 +64,15 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
     with left_column:
-        st.header("Be Careful,Be Safe.")
+        st.header("What are designers in fashion?")
         st.write("##")
         st.write(
             """
-            1.  Protect Your Personal Information With Strong Passwords.
-            2.  Keep Personal Information Private.
-            3.  Make Sure Your Devices Are Secure.
-            4.  Pay Attention to Software Updates.
-            5.  Be Careful About Wifi.
-            6.  Use Up Two-Factor Authentication.
-            7.  Back Up Your Personal Data.
+            Designers in fashion are professionals who create concepts of new and trending styles,
+            build real-life prototypes of these designs and prepare the final products to sell to customers. 
+            Fashion designers typically specialize in one type of field and stay updated on the trends within that area. 
+            After graduating from their program of choice, a fashion designer can choose to create clothing, shoes or accessories. 
+            There are several subsections within these categories that a designer can pursue depending on their skills and interests.
             """
         )
         st.write("[Learn More](https://safety.google/)")
