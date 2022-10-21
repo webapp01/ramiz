@@ -36,8 +36,7 @@ with st.container():
     with left_column:
         st.header("")
     with right_column:
-        st.subheader("")
-        st.title("﷽")
+        st.subheader("﷽")
 with st.container():
     st.write("---")
     st.header("")
