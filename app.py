@@ -34,7 +34,7 @@ chocolate_img = Image.open("images/chocolate_img.png")
 with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
-        st.header("Welcome")
+        st.header("")
     with right_column:
         st.title("﷽")
 with st.container():
