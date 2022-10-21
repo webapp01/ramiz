@@ -46,7 +46,7 @@ with st.container():
     with image_column:
         st.image(ramiz_profile)
     with text_column:
-        st.subheader("MD. Ramiz Uddin")
+        st.subheader("MD Ramiz Uddin")
         st.write(
             """
             - _Fashion Model_
